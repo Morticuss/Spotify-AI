@@ -61,3 +61,8 @@ A browser window will open for Spotify login on first run. Make sure Spotify is 
 - **Update Playlist** button creates a Spotify playlist with the AI's top 25 picks
 - Back button to revisit previous tracks and change ratings
 - All progress saves between sessions
+
+## Support
+
+I do coding projects like these for myself but also to fix problems other people might have. If you find this, or any of my other projects useful, consider donating ❤️
+- https://buymeacoffee.com/morticuss
