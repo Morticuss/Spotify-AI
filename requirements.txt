@@ -1,0 +1,7 @@
+spotipy
+customtkinter
+Pillow
+numpy
+requests
+python-dotenv
+dotenv
