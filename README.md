@@ -9,8 +9,8 @@ A desktop app that learns your music taste in real time. Rate songs with thumbs 
 ### 1. Clone the repo
 
 ```
-git clone https://github.com/YOUR_USERNAME/spotify-ai-learner.git
-cd spotify-ai-learner
+git clone https://github.com/Morticuss/Spotify-AI.git
+cd Spotify-AI
 ```
 
 ### 2. Install dependencies
