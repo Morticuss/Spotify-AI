@@ -26,7 +26,7 @@ pip install -r requirements.txt
 3. Fill in any name and description
 4. Set the **Redirect URI** to `http://127.0.0.1:8080/callback`
 5. Click **Save**
-6. On your app's page, click **Settings** and copy the **Client ID** and **Client Secret**
+6. On your app's page, copy the **Client ID** and **Client Secret**
 
 ### 4. Configure .env
 
